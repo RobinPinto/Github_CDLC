@@ -17,6 +17,6 @@ git config --global user.email dhiraj.datascientist@gmail.com
 
 * 002_Example:
 ```
-git config --global user.name dhirajdatascientist
-git config --global user.email dhiraj.datascientist@gmail.com
+git config --global user.name "dhirajdatascientist"
+git config --global user.email "dhiraj.datascientist@gmail.com"
 ```
