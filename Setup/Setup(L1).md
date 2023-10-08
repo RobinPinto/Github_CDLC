@@ -23,7 +23,7 @@ git config --global user.email "dhiraj.datascientist@gmail.com"
 
 ## Verify
 
-* 002_Example:
+* 001_Example:
 ```
 git config --global user.name
 git config --global user.email
